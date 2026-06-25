@@ -8,6 +8,12 @@ A conditional Generative Adversarial Network (cGAN) that generates cartoon avata
 
 AvatarGAN learns to generate 128×128 RGB cartoon faces that match a given combination of facial attributes. Both the Generator and the Discriminator receive attribute embeddings alongside the image/noise input, which guides the model towards attribute-consistent outputs.
 
+## Results
+
+![Output 1](img/output1.png)
+![Output 2](img/output2.png)
+![Output 3](img/output3.png)
+
 ## Architecture
 
 | Component | Description |
